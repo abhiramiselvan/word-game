@@ -20,6 +20,3 @@ In the event of an incorrect guess, you're granted three more chances to deduce 
 Failing to guess correctly within these three attempts triggers a "Game Over" message, marking the conclusion of the game.
 
 
-
-
-# word-game
